@@ -1,5 +1,7 @@
 # README
 
+[![Join the chat at https://gitter.im/coolcodeexamples/README](https://badges.gitter.im/coolcodeexamples/README.svg)](https://gitter.im/coolcodeexamples/README?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## How to lookup an example
 1. Through google or https://github.com/coolcodeexamples
 2. Search for the example you are looking for by the technologies/libraries you want to learn about.
