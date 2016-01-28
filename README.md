@@ -12,6 +12,7 @@
 * Once added, you will have the rights to create new repositories
 
 ## The ONLY instructions for creating repository
-1. Create a cool name, not about the technology/library you are using
-2. Add the technologies/libraries you use in the description so that they are searchable in https://github.com/coolcodeexamples
-3. Have FUN!
+* Create a cool name, not about the technology/library you are using
+* Add the technologies/libraries you use in the description so that they are searchable in https://github.com/coolcodeexamples
+* License your repository in MIT (unless you want something different)
+* Have FUN!
